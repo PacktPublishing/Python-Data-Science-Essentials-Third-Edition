@@ -1,0 +1,7 @@
+Date,Temperature_city_1,Temperature_city_2,Temperature_city_3,Which_destination
+20140910,80,32,40,1
+20140911,100,50,36,2
+20140912,102,55,46,1
+20140913,60,20,35,3
+20140914,60,,32,3
+20140915,,57,42,2
