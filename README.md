@@ -48,7 +48,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ### Related products
 * Practical Data Science Cookbook - Second Edition [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/practical-data-science-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787129627 ) [[Amazon]](https://www.amazon.com/dp/1787129624)
 
-*  [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-example?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1783553111)
+* Python Machine Learning By Example [[Packt]](https://www.packtpub.com/big-data-and-business-intelligence/python-machine-learning-example?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1783553111)
 
 
 ## Get to Know the Authors
@@ -58,14 +58,6 @@ Alberto Boschetti is a data scientist with expertise in signal processing and st
 **Luca Massaron**
 Luca Massaron is a data scientist and marketing research director specialized in multivariate statistical analysis, machine learning, and customer insight, with over a decade of experience of solving real-world problems and generating value for stakeholders by applying reasoning, statistics, data mining, and algorithms. From being a pioneer of web audience analysis in Italy to achieving the rank of a top-10 Kaggler, he has always been very passionate about every aspect of data and its analysis, and also about demonstrating the potential of data-driven knowledge discovery to both experts and non-experts. Favoring simplicity over unnecessary sophistication, Luca believes that a lot can be achieved in data science just by doing the essentials.
 
-****
-0
-
-****
-0
-
-****
-0
 
 ## Other books by the authors
 [](https://www.packtpub.com/big-data-and-business-intelligence/python-data-science-essentials?utm_source=github&utm_medium=repository&utm_campaign=)
